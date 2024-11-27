@@ -48,11 +48,11 @@ This project simulates sensor data, listens to it using MQTT, and triggers alarm
 
 ## **Flowchart of the System**
 
-![alt text](architecture.png)
+![alt text](img/architecture.png)
 
 ## **Database commands**
 
-![alt text](db.png)
+![alt text](img/db.png)
 
-![alt text](db_rule.png)
+![alt text](img/db_rule.png)
 
