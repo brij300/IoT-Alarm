@@ -1,0 +1,8 @@
+{
+    "rule_id": "rule1",
+    "sensor_id": "temperature",
+    "threshold": 28.0,
+    "duration": 5,
+    "condition": "greater",
+    "output_topic": "alarms/temp_alarm"
+  }
